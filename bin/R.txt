@@ -1,0 +1,7 @@
+int attr major_color 0x7f010000
+int attr minor_color 0x7f010001
+int attr style_name 0x7f010002
+int[] styleable ProgressIndicator { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable ProgressIndicator_major_color 0
+int styleable ProgressIndicator_minor_color 1
+int styleable ProgressIndicator_style_name 2

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressIndicator">
+        <attr name="major_color" format="color" />
+        <attr name="minor_color" format="color" />
+        
+        <attr name="style_name" format="string" />
+    </declare-styleable>
+</resources>
